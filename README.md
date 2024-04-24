@@ -26,6 +26,7 @@
 ## Installation
 
 ```$npm
+$ npm i @nestjs/mapped-types
 $ npm i class-validator class-transformer
 $ npm install
 ```
